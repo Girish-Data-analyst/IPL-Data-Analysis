@@ -48,5 +48,5 @@ The project showcases the power of data analytics in sports and presents:
 - Jupyter Notebook
 
 ## By ##
-[GIRISH K S]
-[girishhemanth823@gmail.com]
+GIRISH K S
+- [girishhemanth823@gmail.com]
