@@ -17,7 +17,7 @@ This project explores and analyzes IPL (Indian Premier League) cricket match dat
 - venue: Ground where the match was played
 - umpire1, umpire2: Officials of the match
 
-## 3. Executive Summary##
+## 3. Executive Summary ##
 - Most successful teams across seasons were identified
 - Toss decision impact on match outcomes was analyzed
 - Cities and venues with the highest number of matches were explored
