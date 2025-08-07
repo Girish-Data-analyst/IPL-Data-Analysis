@@ -47,5 +47,5 @@ The project showcases the power of data analytics in sports and presents:
 - Seaborn
 - Jupyter Notebook
 
-## Girish K S##
+## Girish K S 
 [girishhemanth823@gmail.com]
